@@ -46,10 +46,12 @@ A responsive web application that displays real-time weather conditions based on
 git clone https://github.com/RahulShah1702/weather-app.git
 cd weather-app
 
-2. pen the index.html file in your browser.
+```
 
-3. (Optional) Replace the YOUR_API_KEY placeholder in the JavaScript file with your OpenWeatherMap API key.
+2.Open the index.html file in your browser.
 
+3.(Optional) Replace the YOUR_API_KEY placeholder in the JavaScript file with your OpenWeatherMap API key.
+
+```javascript
 const API_KEY = 'YOUR_API_KEY'; // Replace with your actual API key
-
 
